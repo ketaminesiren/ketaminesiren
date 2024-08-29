@@ -27,4 +27,4 @@ C# - Kotlin - Java - C++
 ----------
 ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-_(I have basic to intermediate knowledge of these languages, allowing me to create simple projects when needed, but my expertise is limited.)_
+_(I have basic to intermediate knowledge of these languages, allowing me to create simple projects when needed, but my expertise is limited. Basically i know their syntax and a few more concepts for each langauge but nothing more.)_
